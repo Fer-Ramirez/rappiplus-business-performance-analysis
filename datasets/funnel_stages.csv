@@ -1,0 +1,7 @@
+stage,unique_users,conv_vs_prev,dropoff_rate,conv_vs_top
+First Visit,7796,,,100.0
+Add to Cart,7634,97.9,2.1,97.9
+Select Item,7582,99.3,0.7,97.3
+Begin Checkout,7208,95.1,4.9,92.5
+Payment Info,6250,86.7,13.3,80.2
+Purchase,6240,99.8,0.2,80.0

@@ -1,0 +1,4 @@
+channel,first_visit,add_to_cart,select_item,begin_checkout,payment_info,purchase,conversion_rate_pct,payment_dropoff_pct
+paid_search,5700,5062,5003,4246,3153,3202,56.2,25.7
+social,5693,5063,5020,4179,3136,3111,54.6,25.0
+organic,5652,5081,4992,4228,3181,3158,55.9,24.8
